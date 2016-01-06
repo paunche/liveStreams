@@ -5,7 +5,7 @@ img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
 epg="1"
 
 ime="HRT 2" 
-url="hhttp://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8|User-Agent=Mozilla/5.0" 
+url="http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8|User-Agent=Mozilla/5.0" 
 img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
 epg="2"
 
