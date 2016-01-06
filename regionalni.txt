@@ -11,5 +11,5 @@ epg="-"
 
 ime="Prva TV"
 img="http://teve.ba/img/articles/2762.jpg"
-url="http://abcast.net/abcat.php?file=tasharena&width=610&height=470"
+url="http://streamcasttv.biz/embed.php?file=heydzo3037&width=610&height=470"
 epg="-"
